@@ -1,0 +1,14 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "Basic NPM package",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Michael J McDonald <mjm18@live.missouristate.edu>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "date-fns": "^2.9.0"
+  }
+}
